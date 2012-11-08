@@ -8,7 +8,7 @@ for profile in profiles():
         if event['event'] == 'buy':
             sales[event['product']] += event['price']
 
-set_theme('lipstick')
+set_theme('space')
 
 Text(head='Welcome to Bitdeli',
      size=(12,2),
