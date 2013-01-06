@@ -1,4 +1,4 @@
-[ ![Bitdeli](https://d38jwvt3lv6c1n.cloudfront.net/jtuulos/bd-toydata-welcome-to-bitdeli/trend.png) ](http://bitdeli.com "Bitdeli")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jtuulos/bd-toydata-welcome-to-bitdeli/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 bd-toydata-welcome-to-bitdeli
 =============================
